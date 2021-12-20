@@ -78,6 +78,7 @@ function showEntry () {
     $("#17").val(savedEntry5PM);
 }
 
+// execute functions in DOM
 $(document).ready(function() {
     timeTrack();
     showEntry();
