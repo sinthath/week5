@@ -18,3 +18,5 @@ Built with:
 - CSS
 - Javascript
 - jQuery
+
+![scheduler](https://user-images.githubusercontent.com/92878321/146709664-07bb420a-8a13-48bc-a41b-3945772ab486.JPG)
