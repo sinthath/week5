@@ -1,4 +1,4 @@
-# Quiz Game
+# Workday Scheduler
 
 Purpose:
 
